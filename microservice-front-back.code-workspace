@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "front-admin"
+		},
+		{
+			"path": "front-app"
+		},
+		{
+			"path": "front-dashboard"
+		}
+	],
+	"settings": {}
+}
